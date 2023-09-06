@@ -2,4 +2,4 @@
 
 This is a great website
 
-Edits on example branch Readme
+Updates made on master on GitHub before rebase
